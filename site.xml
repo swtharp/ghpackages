@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><site>
+        <description url="http://test">
+                This site contains the packages for Novell Identity Manager
+        </description>        
+<feature id="AIECONVFunc.feature" url="features/AIECONVFunc.feature_0.1.0.20160927155311.jar" version="0.1.0.20160927155311"/>
+	<feature id="AIEDRVMON.feature" url="features/AIEDRVMON.feature_1.0.2.20140318133707.jar" version="1.0.2.20140318133707"/>
+	<feature id="AIEDRVMONRES.feature" url="features/AIEDRVMONRES.feature_1.0.2.20140319114349.jar" version="1.0.2.20140319114349"/>
+	<feature id="AIEGENFILE.feature" url="features/AIEGENFILE.feature_1.1.1.20141016115231.jar" version="1.1.1.20141016115231"/>
+	<feature id="AIEGENFILE.feature" url="features/AIEGENFILE.feature_1.1.2.20150427135557.jar" version="1.1.2.20150427135557"/>
+	<feature id="AIEJSONFUNC.feature" url="features/AIEJSONFUNC.feature_1.0.3.20161205154810.jar" version="1.0.3.20161205154810"/>
+	<feature id="AIESchemaDrv.feature" url="features/AIESchemaDrv.feature_1.0.4.20140317130500.jar" version="1.0.4.20140317130500"/>
+	<feature id="CIS-ECMA-LIB.feature" url="features/CIS-ECMA-LIB.feature_0.0.7.20180319103033.jar" version="0.0.7.20180319103033"/>
+	<feature id="CIS-ECMA-LIB.feature" url="features/CIS-ECMA-LIB.feature_0.0.8.20181217123728.jar" version="0.0.8.20181217123728"/>
+	<feature id="CIS-ECMA-LIB.feature" url="features/CIS-ECMA-LIB.feature_0.0.9.20181217132034.jar" version="0.0.9.20181217132034"/>
+	<feature id="CIS-LS-CUCM.feature" url="features/CIS-LS-CUCM.feature_1.0.0.20181214134906.jar" version="1.0.0.20181214134906"/>
+	<feature id="CIS-LS-CUCM.feature" url="features/CIS-LS-CUCM.feature_1.0.1.20181218145947.jar" version="1.0.1.20181218145947"/>
+	<feature id="CIS-LS-CUCM.feature" url="features/CIS-LS-CUCM.feature_1.0.2.20220702222459.jar" version="1.0.2.20220702222459"/>
+	<feature id="CIS-LS-DCFG.feature" url="features/CIS-LS-DCFG.feature_3.2.5.20181214134925.jar" version="3.2.5.20181214134925"/>
+	<feature id="CIS-LS-DSET.feature" url="features/CIS-LS-DSET.feature_3.2.5.20181214134934.jar" version="3.2.5.20181214134934"/>
+	<feature id="CIS-UCM-DCFG.feature" url="features/CIS-UCM-DCFG.feature_1.0.0.20181214134753.jar" version="1.0.0.20181214134753"/>
+	<feature id="CUCM-CONFIG.feature" url="features/CUCM-CONFIG.feature_0.0.1.20181214135016.jar" version="0.0.1.20181214135016"/>
+	<feature id="CUCM-CONFIG.feature" url="features/CUCM-CONFIG.feature_0.0.3.20181218150004.jar" version="0.0.3.20181218150004"/>
+	<feature id="NOVLACOMSET.feature" url="features/NOVLACOMSET.feature_2.1.3.20190806143104.jar" version="2.1.3.20190806143104"/>
+	<feature id="NOVLARSRMDYA.feature" url="features/NOVLARSRMDYA.feature_2.0.1.20140703140432.jar" version="2.0.1.20140703140432"/>
+	<feature id="NOVLARSRMDYB.feature" url="features/NOVLARSRMDYB.feature_2.0.2.20160325160406.jar" version="2.0.2.20160325160406"/>
+	<feature id="NOVLATRKBASE.feature" url="features/NOVLATRKBASE.feature_2.1.0.20120718113432.jar" version="2.1.0.20120718113432"/>
+	<feature id="NOVLBNNRATRK.feature" url="features/NOVLBNNRATRK.feature_1.0.0.jar" version="1.0.0"/>
+	<feature id="NOVLBNNRATRK.feature" url="features/NOVLBNNRATRK.feature_2.0.0.20130412105202.jar" version="2.0.0.20130412105202"/>
+	<feature id="NOVLBNNRATRK.feature" url="features/NOVLBNNRATRK.feature_2.0.1.20140903144838.jar" version="2.0.1.20140903144838"/>
+	<feature id="NOVLBNNRBASE.feature" url="features/NOVLBNNRBASE.feature_1.0.0.jar" version="1.0.0"/>
+	<feature id="NOVLBNNRBASE.feature" url="features/NOVLBNNRBASE.feature_2.0.0.20130412105212.jar" version="2.0.0.20130412105212"/>
+	<feature id="NOVLBNNRBASE.feature" url="features/NOVLBNNRBASE.feature_2.0.4.20140903144848.jar" version="2.0.4.20140903144848"/>
+	<feature id="NOVLBNNRMSYS.feature" url="features/NOVLBNNRMSYS.feature_1.0.0.jar" version="1.0.0"/>
+	<feature id="NOVLBNNRMSYS.feature" url="features/NOVLBNNRMSYS.feature_2.0.0.20130412105231.jar" version="2.0.0.20130412105231"/>
+	<feature id="NOVLBNNRMSYS.feature" url="features/NOVLBNNRMSYS.feature_2.0.1.20140903144855.jar" version="2.0.1.20140903144855"/>
+	<feature id="NOVLBNNRPCRS.feature" url="features/NOVLBNNRPCRS.feature_1.0.0.20140903144908.jar" version="1.0.0.20140903144908"/>
+	<feature id="NOVLBNNRPWRD.feature" url="features/NOVLBNNRPWRD.feature_1.0.0.jar" version="1.0.0"/>
+	<feature id="NOVLBNNRPWRD.feature" url="features/NOVLBNNRPWRD.feature_2.0.0.20130412105242.jar" version="2.0.0.20130412105242"/>
+	<feature id="NOVLBNNRPWRD.feature" url="features/NOVLBNNRPWRD.feature_2.0.1.20140903144902.jar" version="2.0.1.20140903144902"/>
+	<feature id="NOVLBNNRUSER.feature" url="features/NOVLBNNRUSER.feature_2.0.0.20130412105253.jar" version="2.0.0.20130412105253"/>
+	<feature id="NOVLBNNRUSER.feature" url="features/NOVLBNNRUSER.feature_2.0.1.20140903144916.jar" version="2.0.1.20140903144916"/>
+	<feature id="NOVLCOMPCRS.feature" url="features/NOVLCOMPCRS.feature_2.1.0.20140916103507.jar" version="2.1.0.20140916103507"/>
+	<feature id="NOVLCOMSET.feature" url="features/NOVLCOMSET.feature_2.0.1.20190806144720.jar" version="2.0.1.20190806144720"/>
+	<feature id="NOVLLIBAJC.feature" url="features/NOVLLIBAJC.feature_2.2.2.20190806142553.jar" version="2.2.2.20190806142553"/>
+	<feature id="NOVLPWDSYNC.feature" url="features/NOVLPWDSYNC.feature_2.1.2.20190806140123.jar" version="2.1.2.20190806140123"/>
+	<feature id="NOVLWOBASE.feature" url="features/NOVLWOBASE.feature_1.0.0.jar" version="1.0.0"/>
+</site>
